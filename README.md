@@ -3,7 +3,7 @@ A digital business card built with React, Vite, and Tailwind to quickly display 
 
 **Link to project:** https://nicoleschnurr-contact.netlify.app/
 
-![digitalBusinessCard](https://i.imgur.com/EMl1xs2.mp4)
+![digitalBusinessCard](https://s9.gifyu.com/images/readmecfd4a951e40f8aac.md.gif)
 
 ## How It's Made:
 
